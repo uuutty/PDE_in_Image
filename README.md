@@ -1,2 +1,2 @@
 # PDE_in_Image
-A final report for “Mathematical method in image processing” In HUST
+matlab code implementation for _Mathematical method in image processing_ In HUST.
